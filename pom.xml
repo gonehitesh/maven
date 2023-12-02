@@ -39,8 +39,8 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>1.6</source>
-          <target>1.6</target>
+          <source>3.8.0</source>
+          <target>3.8.0</target>
         </configuration>
       </plugin>
 
@@ -219,7 +219,7 @@
   </scm>
 
   <prerequisites>
-    <maven>3.0.3</maven>
+    <maven>3.6.3</maven>
   </prerequisites>
 
 </project>
